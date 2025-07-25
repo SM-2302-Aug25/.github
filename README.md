@@ -5,6 +5,7 @@ A 14-week computational module for mathematics majors (FOS major option) running
 ## Instructors
 
 Dr. Huda Ramli *[Assistant Professor in Applied Mathematics]* 
+
 Dr. Novan Sugeng *[Assistant Professor in Computational Mathematics]* 
 
 ## Notes
