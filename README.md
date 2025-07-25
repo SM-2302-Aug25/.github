@@ -1,19 +1,23 @@
-# SM-2302 Software for Mathematicians
+# 👩🏻‍🏫 SM-2302 Software for Mathematicians
 
-A 14-week computational module for mathematics majors (FOS major option) running in August semester.
+Welcome to the official GitHub hub for **SM-2302**, a 14-week hands-on computational module designed for mathematics majors (FOS major option) during the August semester.
 
-## Instructors
+## 👨‍🏫 Instructors
 
-- Dr. Huda Ramli *[Assistant Professor in Applied Mathematics]* 
-- Dr. Novan Sugeng *[Assistant Professor in Computational Mathematics]* 
+- **Dr. Huda Ramli** — *Assistant Professor in Applied Mathematics*
+- **Dr. Novan Sugeng** — *Assistant Professor in Computational Mathematics*
 
-## Notes
+## 🗓️ Notes
 
-- First lecture is scheduled for **Tuesday 5/8/25, 2.10pm--4.00pm @ ICTC Lab 7**
-- As usual, it takes a while for Canvas and/or GIS to update. While waiting, peruse the resources below.
+- First lecture: **Tuesday, 5 August 2025**  
+  🕑 **2:10pm – 4:00pm** @ **ICTC Lab 7**
 
-## Resources
+- 🔄 Canvas and GIS access might take a few days — while waiting, feel free to explore the resources below!
 
-- [Syllabus](https://raw.githubusercontent.com/sm2302-Aug25/material/main/others/sm2302-syllabus.pdf) **IMPORTANT!**
-- [Getting started guide](https://raw.githubusercontent.com/sm2302-Aug25/material/main/others/getting_started.pdf)
-- [Lecture slides](https://github.com/sm2302-Aug25/material)
+## 📚 Resources
+
+- 📄 [**Syllabus** (important!)](https://raw.githubusercontent.com/sm2302-Aug25/material/main/others/sm2302-syllabus.pdf)
+- 🧰 [Getting Started Guide](https://raw.githubusercontent.com/sm2302-Aug25/material/main/others/getting_started.pdf)
+- 🎓 [Lecture Slides Repository](https://github.com/sm2302-Aug25/material)
+
+Happy coding! 🚀🧮
