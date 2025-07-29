@@ -16,8 +16,8 @@ Welcome to the official GitHub hub for **SM-2302**, a 14-week hands-on computati
 
 ## 📚 Resources
 
-- 📄 [**Syllabus** (important!)](https://raw.githubusercontent.com/SM-2302-Aug25/material/SM2302-syllabus-2025.pdf)
-- 🧰 [Getting Started Guide](https://raw.githubusercontent.com/SM-2302-Aug25/material/getting_started.pdf)
+- 📄 [**Syllabus** (important!)](https://github.com/SM-2302-Aug25/material/blob/2b2a0d030399adec7de9f8d1b7584af5d007445b/SM2302-syllabus-2025.pdf)
+- 🧰 [Getting Started Guide](https://github.com/SM-2302-Aug25/material/blob/2b2a0d030399adec7de9f8d1b7584af5d007445b/getting_started.pdf)
 - 🎓 [Lecture Slides Repository](https://github.com/SM-2302-Aug25/material)
 
 Happy coding! 🚀🧮
